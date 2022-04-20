@@ -15,7 +15,7 @@ ankur3 = [[(-60, -220), (-80, -240), (-110, -220), (-120, -250), (-90, -280), (-
            (0, -220)]]
 
 turtle.hideturtle()
-turtle.bgcolor('#004EF1')  
+turtle.bgcolor('#FF0000')  
 turtle.setup(500, 600)
 turtle.title("I AM IRONMAN")
 ankur1Goto = (0, 120)
